@@ -1,6 +1,5 @@
 openapi_client:
 - baseUri: https://randomuser.me/api
   profileName: restClient1
-  skipSSLVerify: false
   timeout: 10
   useSystemCert: true
